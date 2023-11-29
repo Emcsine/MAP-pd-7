@@ -2,7 +2,7 @@
 
 This is the shared repository for an EDD class project.
 
-Problem Statement:
+Problem Statement:Americans with dementia are at a higher risk of medication non-compliance, which causes approximately 125,000 deaths per year.
 
 Design Specifications:
 A pill box and alarm system that will address the needs of dementia patients who may forget to take their medication. These specifications will outline what the solution must do and how it will work. Specifications are in priority order, with the most important goals listed first.
